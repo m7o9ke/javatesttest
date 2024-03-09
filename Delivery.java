@@ -2,3 +2,6 @@
 
 function DeliveryToCustomer () {
 }
+
+function PrepareToDevliery () {
+}
