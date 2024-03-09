@@ -1,4 +1,4 @@
 // TODO Delivery Function
 
-function Delivery () {
+function DeliveryToCustomer () {
 }
